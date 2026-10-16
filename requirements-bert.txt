@@ -1,0 +1,5 @@
+# Option locale : comparaison avec BERT (Deep Learning). Lourd (PyTorch), non utilisé en ligne.
+-r requirements.txt
+transformers
+torch
+emoji
