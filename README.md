@@ -2,7 +2,7 @@
 
 Ce que les voyageurs disent des compagnies aériennes américaines sur Twitter : un tableau de bord Streamlit qui analyse 14 640 tweets, compare des méthodes de lexique (TextBlob, VADER) à un modèle supervisé (TF-IDF + régression logistique) et permet de tester ses propres tweets.
 
-**Application en ligne : _lien à venir_**
+**Application en ligne : https://airline-sentiment-oy.streamlit.app** · [ouvrir directement le simulateur](https://airline-sentiment-oy.streamlit.app/?onglet=modele)
 
 ![Analyse globale](docs/global.png)
 
